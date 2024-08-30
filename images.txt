@@ -5,4 +5,4 @@ nginx
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 mysql:9.0.1
-sentinel
+bladex/sentinel-dashboard:1.8.6
