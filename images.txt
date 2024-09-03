@@ -8,3 +8,4 @@ mysql:9.0.1
 bladex/sentinel-dashboard:1.8.6
 nacos/nacos-server:v2.4.1
 apache/seata-server:latest
+apache/rocketmq:latest
